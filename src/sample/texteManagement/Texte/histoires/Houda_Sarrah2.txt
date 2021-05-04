@@ -1,0 +1,9 @@
+Joueur: Salut c’est (nom du Joueur) vous êtes ?
+Sarah: Moi c’est Sarah et elle Houda. Bienvenue dans notre classe
+Joueur : Merci
+Sarah : Tu étais là lors du TD de JAVA ?
+Joueur : Oui
+Houda : Ah génial tu as donc pris des notes ?
+(Choix)
+Oui comme tout élève model
+Bien sûr

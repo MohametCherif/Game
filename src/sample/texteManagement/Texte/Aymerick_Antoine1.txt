@@ -1,0 +1,25 @@
+(Background)
+src/Images/Background/garden.jpg
+Joueur : Cette première journée s’est plutôt bien passée. La classe a l’air plutôt sympathique
+maintenant direction la maison… Il me semble entendre des voix familières derrière…
+Aymerick : J’espère qu’on n’aura pas à attendre trop longtemps la 10 aujourd’hui, je dois aller garder
+mes petits frères
+Antoine : Onh ça va, la 10 met maxi 5 min pour arriver
+Aymerick : Et tu sais ce que ces 5 min rajoutent sur mon trajet ?
+Antoine : Oui figure toi que je connais la chanson « Si tu rates la 10, tu vas donc rater ton train et tu
+auras donc à attendre 20 min ton bus puisque tu vas le rater. Ce qui fera donc en sorte que tu arrives
+chez toi à 20h au lieu de 19h20
+Joueur : Eh ben dis donc il est aussi pointillé que ça
+Aymerick : Bah voilà !
+Tu vois qu’à force de répéter ça finit par rentrer dans ton petit crâne…
+Antoine : Attend, c’est pas la nouvelle devant, si ça se trouve elle prend la même ligne que nous.
+Vient on va lui demander.
+Aymerick : Non mais tu m’écoutes ?? je t’ai dit qu’on n’a pas de temps à perdre
+Pourquoi il faut toujours que tu cherches d’autres compagnons de trajet ? Je ne te suffis pas
+moi ?
+Antoine : Arrête de faire l’insociable et vient !
+Antoine : Hey, (nom de l’Joueur) alors cette première journée de cours ? pas trop fatigué ?
+(Choix)
+non ça va, la journée est passé vite je n’ai même pas vu le temps passé
+Un peu que oui, je pensais qu’elle n’allait jamais se terminer
+En quoi ça te regarde ?

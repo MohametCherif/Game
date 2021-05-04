@@ -1,0 +1,24 @@
+Joueur: Oui mais là je ne les ai pas sur moi
+Houda : C’est bon laisse tomber sarah, on s’en va !
+Joueur : Bye les barbies 
+
+(Background)
+src/Images/Background/garden.jpg
+
+Julien : Eh Pssst Viens par la ! 
+Joueur : C'est qui lui ...
+Julien : T'es nouveau ici ?
+Joueur: Ouais ! 
+Julien: Alors Moi c'est Julien , lui c'est Ariel et elle c'est Florence !
+Joueur: Enchanté moi cest (Nom du Joueur)!
+Julien: Bienvenu chez les Ei2i 
+Ariel: Ouais j'espère que tu ne galère pas trop 
+(Choix)
+Non ça va t'inquiètes 
+Bon ça fais bizarre mais je m'y ferai
+Si reponse 1 : 
+Ariel : Cool alors! Héhé
+Julien: Tu veux une clope ?
+(Choix) 
+Non je ne fume pas 
+Oui je veux bien 

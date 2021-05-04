@@ -1,0 +1,7 @@
+Joueur : Merci
+Sarah : Tu étais là lors du TD de JAVA ?
+Joueur : Oui
+Houda : Ah génial tu as donc pris des notes ?
+(Choix)
+Oui comme tout élève model
+Bien sûr

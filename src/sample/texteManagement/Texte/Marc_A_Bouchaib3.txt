@@ -1,0 +1,37 @@
+Joueur: Non Je ne peux pas
+Bouchaib : Quoi ? eh m’énerve pas décale toi rapidement là 
+Joueur: Mais c’est bon tu as déjà assez de place là !
+Bouchaib : Mais weeeesh ça a du toupé ici
+Le prof : Monsieur Chelaoui et Monsieur (Nom de l’avatar) moins de bruit svp
+Bouchaib : On reglera ça à la sortie (-2)
+(Background)
+src/Images/Background/classroom_2.jpg
+A la pause 
+Bouchaib : Hé toi la viens ici .
+Joueur: Ouais ?
+Bouchaib : C’est avec moi que tu faisais le malin ? 
+Joueur: Non pas du tout 
+Bouchaib: Fais gaffe hein.
+Joueur: Mais t’es petit de taille 
+Bouchaib: Oui et maintenant ?
+Joueur: Non rien
+Bouchaib : Je préfère 
+(Background)
+src/Images/Background/hallway.png
+A la pause 
+Marc A: Salut le nouveau t’aimes les veaux ?
+Joueur: Le rapport ?
+Marc A : C’est pour la rime Hahahaha
+Joueur: Ah d’accord oui j’aime bien lol
+Marc A : Tu connais Mohamed Salla? Trop fort ce mec ! Comme le sénégalais Sadio Mané (en faisant une danse bizarre ) N’est-ce pas chérif ? 
+Bouchaib : Il s’en fou ! Comme le nouveau 
+Marc A : je ne te parle pas 
+Bouchaib : Mais moi si 
+Ils sont bizarres 
+Joueur: Bon on peut discuter juste tranquillement ?
+Bouchaib: Oui 
+Marc A : Oui
+Joueur: Merci 
+
+
+

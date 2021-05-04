@@ -1,0 +1,10 @@
+Joueur: C’est un ouf lui !tu me prends pour ton toutou ou quoi !(+1)
+-Adrien : t’es drôle toi bibou,n’oublies pas que t’es la risée du groupe  ,  !Ne l’écoute pas , ce serait avec plaisir 
+Bibou :  Oh! le rageux … même Cherif il veut me ressembler tellement je suis stock ( en montrant ses biceps)
+- Marc : je confirme !(en ironisant )
+-Adrien : du coup  vous mangez quoi aujourd’hui ? moi je me suis fait des pâtes au ketchup 
+Marc :j’ai ramené les restes du riz cantonais que j’avais préparé hier 
+Bibou :  Bah moi , des épinards comme d’habitude , c’est pas pour rien qu’on m’appelle popeye les gars ! hey hey 
+(Choix)
+Il est drôle votre pote ,il faut que j’y aille me prendre  un truc(+1)
+Je n’ai jamais vu quelqu’un d’aussi narcissique ! (-1)

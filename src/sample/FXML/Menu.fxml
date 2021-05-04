@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<Pane fx:id="mainWindow" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="641.0" prefWidth="926.0" stylesheets="@../CSS/Style.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ControllerMenu">
+   <children>
+      <HBox layoutX="10.0" layoutY="10.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="641.0" prefWidth="926.0">
+         <children>
+            <VBox fx:id="menuPane" alignment="CENTER" prefHeight="642.0" prefWidth="310.0" spacing="20.0">
+               <children>
+                  <Button mnemonicParsing="false" onMouseClicked="#openPopup" prefHeight="100.0" prefWidth="169.0" styleClass="big-yellow" text="New game" />
+                  <Button fx:id="continueButton" layoutX="80.0" layoutY="281.0" mnemonicParsing="false" onMouseClicked="#continueGame" prefHeight="100.0" prefWidth="169.0" styleClass="big-yellow" text="Continue" />
+                  <Button fx:id="settingButton" layoutX="80.0" layoutY="341.0" mnemonicParsing="false" onMouseClicked="#settingGame" prefHeight="100.0" prefWidth="169.0" styleClass="big-yellow" text="Settings" />
+                  <Button fx:id="quitButton" layoutX="80.0" layoutY="401.0" mnemonicParsing="false" onMouseClicked="#quitGame" prefHeight="100.0" prefWidth="169.0" styleClass="big-yellow" text="Exit" />
+               </children>
+            </VBox>
+            <VBox prefHeight="642.0" prefWidth="620.0">
+               <children>
+                  <Label fx:id="titre" alignment="CENTER" prefHeight="180.0" prefWidth="490.0" text="Dans la peau d'un EI2I">
+                     <VBox.margin>
+                        <Insets right="35.0" />
+                     </VBox.margin>
+                     <font>
+                        <Font name="Bradley Hand ITC" size="50.0" />
+                     </font></Label>
+                  <ImageView fitHeight="388.0" fitWidth="255.0">
+                     <image>
+                        <Image url="@../../Images/Extra/background_chara.png" />
+                     </image>
+                     <VBox.margin>
+                        <Insets left="180.0" top="30.0" />
+                     </VBox.margin>
+                  </ImageView>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+   </children>
+</Pane>

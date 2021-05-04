@@ -1,0 +1,9 @@
+Joueur : C’est (nom du Joueur), j’en ai assez que tout le monde m’appelle comme ça et vous …
+Sarah : Oui j’imagine, désolée … moi c’est Sarah et elle Houda. Bienvenue !
+Joueur : Merci
+Sarah : Tu étais là lors du TD de JAVA ?
+Joueur : Oui
+Houda : Ah génial tu as donc pris des notes ?
+(Choix)
+Oui comme tout élève model
+Bien sûr

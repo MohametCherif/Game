@@ -1,0 +1,108 @@
+(Background)
+src/Images/Background/classroom_2.jpg
+Mariama :  Hey Magatte , le TOEIC approche à grand pas ! je commence à stresser la.
+Magatte : Grave ! Mais tu n’as pas t’inquiéter on l’aura en 2 temps trois mouvement!
+Mariama :  ah ! en tout cas moi j’ai peur , je ne suis pas prête à l’affronter !
+Magatte : Mais nooon ! t’inquiètes pas ça va bien se passer !
+Player :A-  Bonjour , Vous allez bien ? +1
+Player :B-  A vous entendre parler , on sait déjà c’est qui les personnes les plus sérieuses de la classe, je m’appelle ( nom player ) , et vous ? 0
+
+si réponse A:
+- Mariama :  Bonjour,ça va bien et toi ?
+-Magatte :  ça va Tranquille !tu t’appelles comment ?
+- Player  (nom ) et vous ?
+-Magatte : Moi c’est Magatte et elle Mariama, la bosseuse !
+
+si réponse B:
+- Mariama :  Mariama , enchanté!
+-Magatte : Magatte ! je crois t’as mal entendu alors ,plus flemmardes que nous tu en trouveras nulle part ailleurs.
+
+- Mariama :  Moi en tout cas , je ne suis pas une bosseuse mais j’essaie de ne pas être une flemmarde aussi , d’ailleurs on parlait j’espère que t’es prêt.e ?
+- Player :A-  Le toeic c’est de l’eau même pas besoin de le préparer +1
+- Player :B-  je suis complètement à la ramasse ! -1
+
+si réponse A:
+- Mariama : A t’entendre parler tu dois être bilingue !
+-Magatte : Je suis sûr que  tu te la racontes, les forts ne se vantent pas dans les CNTP.
+
+si réponse B:
+-Magatte : Eh bah ! bienvenue au club on pensait pouvoir compter sur toi  
+
+
+- Mariama : Eh les amis , moi en tout cas , je mangerai toeic , je dormirai toeic , meme aux toilettes y aura du toeic … 
+-Magatte :elle ne fait que confirmer ce que je disais .Moi si je ne l’ai pas cette année , je l’aurai l’année prochaine , et si je ne l’ai pas l’année prochaine je l’aurai à la suivante , jusqu’à ce que je l’ais.
+
+- Player :A- Je suis d’accord avec toi Mariama, mais faut pas abuser auss (rire ) +1
+- Player :B-  Je suis avec toi Magatte, on y va doucement mais surement. (0)
+
+si réponse A:
+-Magatte : Vous êtes malades vous deux ! ça ne nous empêchera pas de vivre
+- Mariama : t’es qui pour nous juger ? yo be you ?
+
+si réponse B: 
+- Mariama : Vous êtes tellement inconscients , je ne sais pas comment vous faites pour être aussi zen . Qui êtes vous en faites ? yo be you ? (en essayant de le dire en anglais )
+
+
+Player: hahaha à attendre ton anglais , faudrait meme que tu ressuscites Shakespeare pour qu’il te fasse des cours 
+-Magatte : Je suis morte de rire ! il y a de quoi à avoir peur 
+
+- Mariama s’énerve et s’en va  après ces moqueries 
+
+
+
+
+
+Discussion TOEIC
+
+- Mariama :  Hey Magatte , le TOEIC approche à grand pas ! je commence à stresser la.
+-Magatte : Grave ! Mais tu n’as pas t’inquiéter on l’aura en 2 temps trois mouvement!
+- Mariama :  ah ! en tout cas moi j’ai peur , je ne suis pas prête à l’affronter !
+-Magatte : Mais nooon ! t’inquiètes pas ça va bien se passer !
+- Player :A-  Bonjour , Vous allez bien ? +1
+- Player :B-  A vous entendre parler , on sait déjà c’est qui les personnes les plus sérieuses de la classe, je m’appelle ( nom player ) , et vous ? 0
+
+si réponse A:
+- Mariama :  Bonjour,ça va bien et toi ?
+-Magatte :  ça va Tranquille !tu t’appelles comment ?
+- Player  (nom ) et vous ?
+-Magatte : Moi c’est Magatte et elle Mariama, la bosseuse !
+
+si réponse B:
+- Mariama :  Mariama , enchanté!
+-Magatte : Magatte ! je crois t’as mal entendu alors ,plus flemmardes que nous tu en trouveras nulle part ailleurs.
+
+- Mariama :  Moi en tout cas , je ne suis pas une bosseuse mais j’essaie de ne pas être une flemmarde aussi , d’ailleurs on parlait j’espère que t’es prêt.e ?
+- Player :A-  Le toeic c’est de l’eau même pas besoin de le préparer +1
+- Player :B-  je suis complètement à la ramasse ! -1
+
+si réponse A:
+- Mariama : A t’entendre parler tu dois être bilingue !
+-Magatte : Je suis sûr que  tu te la racontes, les forts ne se vantent pas dans les CNTP.
+
+si réponse B:
+-Magatte : Eh bah ! bienvenue au club on pensait pouvoir compter sur toi  
+
+
+- Mariama : Eh les amis , moi en tout cas , je mangerai toeic , je dormirai toeic , meme aux toilettes y aura du toeic … 
+-Magatte :elle ne fait que confirmer ce que je disais .Moi si je ne l’ai pas cette année , je l’aurai l’année prochaine , et si je ne l’ai pas l’année prochaine je l’aurai à la suivante , jusqu’à ce que je l’ais.
+
+- Player :A- Je suis d’accord avec toi Mariama, mais faut pas abuser auss (rire ) +1
+- Player :B-  Je suis avec toi Magatte, on y va doucement mais surement. (0)
+
+si réponse A:
+-Magatte : Vous êtes malades vous deux ! ça ne nous empêchera pas de vivre
+- Mariama : t’es qui pour nous juger ? yo be you ?
+
+si réponse B: 
+- Mariama : Vous êtes tellement inconscients , je ne sais pas comment vous faites pour être aussi zen . Qui êtes vous en faites ? yo be you ? (en essayant de le dire en anglais )
+
+
+Player: hahaha à attendre ton anglais , faudrait meme que tu ressuscites Shakespeare pour qu’il te fasse des cours 
+-Magatte : Je suis morte de rire ! il y a de quoi à avoir peur 
+
+- Mariama s’énerve et s’en va  après ces moqueries 
+
+
+
+
+

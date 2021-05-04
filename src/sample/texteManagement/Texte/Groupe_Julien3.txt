@@ -1,0 +1,17 @@
+Joueur: Oui je veux bien
+Julien: Flo tu lui passe stp ?
+Flo : Ouais .
+Joueur: Merci 
+Flo: De rien 
+---- 
+Gros blanc 
+--- 
+Flo: Il y a une préparation à rendre au TP d'électronique ?
+Julien : Quoi ? Quelle préparation ? C'est aujourd'hui ?
+Ariel : Ouais 
+Julien: Bah tant pis! 
+Joueur: Lol tant pis ?
+Julien: Ouais je la fais pendant le tp et je rends à la fin!
+(Choix)
+Ah ouais trop fort
+Bah okay c'est cool 

@@ -1,0 +1,70 @@
+(Background)
+src/Images/Background/classroom_2.jpg
+Quelques minutes avant le cours suivant :
+Khadija : Il est pas encore la le prof? 
+Mama : Non 
+Khadija : Encore sur ton jeu de décoration ? lol
+Mama: Eh regarde ce que j'ai fait ! C'est beau non ?
+Khadija: Ouais 
+
+Joueur: Salut les filles !
+Khadija : Salut euh Monsieur X ! 
+Mama : Salut ça va ? Tu t'appelles comment ?
+Joueur : (Nom du Joueur) et vous ?
+Mama: Moi c'est Mama et elle c'est Khadija. Ta rentrée s'est bien passée? j'ai des notes de cours au cas ou t'a besoin ! 
+Khadija : Ouais elle c'est Mère Theresa ! Toujours trop gentille !
+Joueur : Merci Mama c'est gentil je te demanderai quand j'aurai besoin!
+Mama: De rien !
+Joueur : Tu joues a quel jeu ?
+Mama: Jeu de décoration ! 
+(Choix) 
+Ah ça a l'air bien !
+Ah il y a des décoratrices dans la classe et Tu veux être ingénieure sinon ?
+ 
+Si reponse 1: 
+Khadija: Ouais elle passe sa vie dessus !
+Mama : Arrête t'abuses haha ! 
+
+Si réponse 2 : 
+Khadija: Non mais Oh c'est quoi cette façon de parler ? Mama tu lui passes tes notes je vous fracasse tous les deux ! 
+Mama: calmes toi Khadija il/elle  n'était pas sérieux(se) je pense 
+Joueur: Oui c'etait pour rire ! 
+Khadija : Okay c'est mieux pour toi (+0) 
+
+
+Khadija: Qui a des gateaux? j'ai faim !
+Choix : 
+J'en ai si tu veux !
+J'en ai mais tu les manges dehors pas dans la salle ! 
+
+Si reponse 1 : 
+Khadija : Ah merci ! (+1) 
+
+Si reponse 2: 
+Khadija : Quoi ? Puis quoi encore? Garde tes gateaux ! Etouffe toi avec ! Ta grosse tête la ! (-2)
+Joueur: ça alors tu as si faim que ça ! 
+Khadija : Tais -toi je vais voir ailleurs !
+
+Joueur: Elle est pas un peu folle Khadija 
+Mama : Non pas un peu ! Elle est super folle! 
+Joueur : Elle a failli me taper tout a l'heure! 
+Mama: AHaha regarde elle est en train de raquetter mon chéri Victor !
+Choix
+Ah tu as un cheri ? Cool !
+Ah c'est lui ton chéri ? Je suis plus beau (si garçon) 
+Ah c'est lui ton chéri ? Le mien est plus beau (si fille) 
+ 
+
+Si reponse 1: 
+Mama: Ouais trop mignon ! 
+Joueur: Oui ...euh pas mal (+1)
+Si reponse 2: 
+Mama: n'importe quoi tu ressemble à un vermicelle! 
+Joueur: ça va je rigole !
+
+Si réponse 3:
+Mama : Je peux voir ?
+je sors mon téléphone et lui montre 
+Mama: Il est moche comme toi! Allez au revoir !
+Joueur: En plus ça ment!
+Mama: Et tu me parles pas comme ça (-1). Je vais t'arracher les cheveux ! 

@@ -1,0 +1,12 @@
+Joueur: J'en ai mais tu les manges dehors pas dans la salle !
+Khadija : Quoi ? Puis quoi encore? Garde tes gateaux ! Etouffe toi avec ! Ta grosse tête la ! (-2)
+Joueur: ça alors tu as si faim que ça ! 
+Khadija : Tais -toi je vais voir ailleurs !
+Joueur: Elle est pas un peu folle Khadija 
+Mama : Non pas un peu ! Elle est super folle! 
+Joueur : Elle a failli me taper tout a l'heure! 
+Mama: AHaha regarde elle est en train de raquetter mon chéri Victor !
+Choix
+Ah tu as un cheri ? Cool !
+Ah c'est lui ton chéri ? Je suis plus beau (si garçon) 
+Ah c'est lui ton chéri ? Le mien est plus beau (si fille) 

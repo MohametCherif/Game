@@ -1,0 +1,32 @@
+
+Avatar : je pense que je vais rester dans la salle en attendant que le prof arrive… Il y’a 2 filles qui
+discutent devant moi. Il me semble pas les avoir déjà parlé…
+Sarah : Alors ce voyage à Cannes ? J’espère que tu en as bien profité ?
+Houda : C’était juste amazing. I loved! Le soleil, la plage restaurant… tout ce qu’il me fallait en ce
+moment !
+Sarah : onh je suis trop jalouse ☹
+Houda : haha arrête de bouder. Si tu veux on peut en programmer un pour Londres ce weekend.
+J’adore cette ville. Enfin si tu ne tombes pas malade…
+Avatar : waouh, je me demande comment elle fait avec les cours en voyageant autant…
+Sarah : En parlant de maladie, j’étais absente pour le TD de JAVA, tu peux me passer tes notes.
+Houda : Tu sais très bien que j’étais en plein préparatif de mon petit trip à Cannes. Le TD de JAVA
+était donc le cadet de mes soucis. Tu peux peut-être demander à William ou attend, demandons
+plutôt au nouveau (ou nouvelle)
+
+Sarah : Salut le nouveau (ou nouvelle) !
+Avatar : A- Salut c’est (nom de l’avatar) vous êtes ?
+B- C’est (nom de l’avatar), j’en ai assez que tout le monde m’appelle comme ça et vous …
+Sarah : Si choix A : Moi c’est Sarah et elle Houda. Bienvenue dans notre classe
+Si choix B : oui j’imagine, désolée … moi c’est Sarah et elle Houda. Bienvenue !
+Avatar : Merci
+Sarah : Tu étais là lors du TD de JAVA ?
+Avatar : Oui
+Houda : Ah génial tu as donc pris des notes ?
+Avatar : A- Oui comme tout élève model
+B- Bien sûr
+Sarah : Si choix A : Alors élève model tu peux me passer tes notes
+Si choix B : Tu me passes tes notes ?
+Avatar : A- Et j’y gagnes quoi ?
+B- Oui mais là je ne les ai pas sur moi
+Houda : C’est bon laisse tomber sarah, on s’en va !
+Avatar : Bye les barbies !

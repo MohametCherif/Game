@@ -1,0 +1,5 @@
+Joueur: Oui comme tout élève model
+Sarah: Alors élève model tu peux me passer tes notes
+(Choix)
+Et j’y gagnes quoi ?
+Oui mais là je ne les ai pas sur moi

@@ -1,0 +1,15 @@
+(Background)
+src/Images/Background/classroom_2.jpg
+En plein cours...
+Marc A : Bonjour Monsieur désolé pour le retard 
+* 2mn plus tard
+Bouchaib : Bonjour Monsieur désolé du retard
+Marc A: Hahaaaa mais bouch toi tu habites à côté 
+Bouchaib : Marc ? Tu vas bien ? Tu ne sais pas quelles sont les raisons de mon retard est ce que tu peux garder tes remarques pour toi ?
+
+Woow il n’a pas l’air de blaguer le Bouchaib 
+Il s’assoit à côté de moi 
+Bouchaib : Bonjour tu peux décaler ta table s’il te plaît ?
+(Choix)
+Oui bien sûr 
+Non Je ne peux pas

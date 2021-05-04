@@ -1,0 +1,6 @@
+Joueur : Bonjour , Vous allez bien ? +1
+Mariama :  Bonjour,ça va bien et toi ?
+Magatte :  ça va Tranquille !tu t’appelles comment ?
+Joueur :(nom du Joueur) et vous ?
+Magatte : Moi c’est Magatte et elle Mariama, la bosseuse !
+Mariama :  Moi en tout cas , je ne suis pas une bosseuse mais j’essaie de ne pas être une flemmarde aussi , d’ailleurs on parlait du TOEIC j’espère que t’es prêt ?

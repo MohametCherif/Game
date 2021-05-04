@@ -1,0 +1,58 @@
+Oui bien sûr - Marc_A_Bouchaib2.txt
+Non Je ne peux pas - Marc_A_Bouchaib3.txt
+Salut Poussinette ça roule et toi ? - CherifSimran2.txt	
+Salut tu vas bien ? C’est quel animé ? - CherifSimran3.txt	
+On fait quoi ?  on peut jouer au Uno en ligne si tu veux - CherifSimran5.txt
+Bah arrête d’avoir la flemme et suis non ? - CherifSimran6.txt
+Vous faites tous du sport ? (-1) - bibou_s_crew2.txt
+Hello, vous allez bien , apparemment vous êtes les grands sportifs de la classe.(+1) - bibou_s_crew3.txt
+Bon courage ! il va falloir bosser dur parce que vous êtes mal parti la (en se moquant) (-1) - bibou_s_crew5.txt
+Great ! je cherchais des gars comme vous pour bien me préparer aussi .(+1) - bibou_s_crew6.txt
+C’est un ouf lui ! Tu me prends pour ton toutou ou quoi !(+1) - bibou_s_crew7.txt
+Calme frère ! un peu de respect stp (0) - bibou_s_crew8.txt
+Il est drôle votre pote ,il faut que j’y aille me prendre  un truc(+1) - bibou_s_crew9.txt
+Je n’ai jamais vu quelqu’un d’aussi narcissique ! (-1) - bibou_s_crew10.txt
+Oui (+1 Piotr) - groupe_Jad2.txt
+Non merci - groupe_Jad3.txt
+Salut c’est (nom de l’avatar) vous êtes ? - Houda_Sarrah2.txt
+C’est (nom de l’avatar), j’en ai assez que tout le monde m’appelle comme ça et vous … - Houda_Sarrah3.txt
+Oui comme tout élève model - Houda_Sarrah5.txt
+Bien sûr - Houda_Sarrah6.txt
+Et j’y gagnes quoi ? - Houda_Sarrah8.txt
+Oui mais là je ne les ai pas sur moi - Houda_Sarrah9.txt
+non ça va, la journée est passé vite je n’ai même pas vu le temps passé - Aymerick_Antoine_2.txt
+Un peu oui, je pensais qu’elle n’allait jamais se terminer - Aymerick_Antoine_4.txt
+En quoi ça te regarde ? - Aymerick_Antoine_3.txt
+Non j’habite à côté du coup je ne prends que le bus et vous ? - Aymerick_Antoine_5.txt
+Euh un peu, je prends la 10 et vous ? - Aymerick_Antoine_6.txt
+J’habite assez loin, je prends la 12 et vous ? - Aymerick_Antoine_5_bis.txt
+Bonjour , Vous allez bien ? +1 - Mariama_Magatte2.txt
+A vous entendre parler , on sait déjà c’est qui les personnes les plus sérieuses de la classe, je m’appelle ( nom player ) , et vous ? 0 -  Mariama_Magatte3.txt
+Le toeic c’est de l’eau même pas besoin de le préparer +1 - Mariama_Magatte5.txt
+Je suis complètement à la ramasse ! -1 - Mariama_Magatte6.txt
+Je suis d’accord avec toi Mariama, mais faut pas abuser auss (rire ) +1 - Mariama_Magatte8.txt
+Je suis avec toi Magatte, on y va doucement mais surement. (0) - Mariama_Magatte9.txt
+Ah ça a l'air bien !- Khadija_Mama2.txt
+Ah il y a des décoratrices dans la classe et Tu veux être ingénieure sinon ? - Khadija_Mama3.txt
+J'en ai si tu veux ! - Khadija_Mama5.txt
+J'en ai mais tu les manges dehors pas dans la salle ! - Khadija_Mama6.txt
+Ah tu as un cheri ? Cool ! - Khadija_Mama8.txt
+Ah c'est lui ton chéri ? Je suis plus beau (si garçon) - Khadija_Mama9.txt
+Ah c'est lui ton chéri ? Le mien est plus beau (si fille) - Khadija_Mama10.txt 
+Non je ne fume pas - Groupe_Julien2.txt
+Oui je veux bien - Groupe_Julien3.txt
+Ah ouais trop fort - Groupe_Julien5.txt
+Bah okay c'est cool - Groupe_Julien6.txt 
+Ouais un peu ! - Groupe_Julien8.txt
+Ouais beaucoup trop ! haha - Groupe_Julien9.txt
+Ouais je connais mais pourquoi ? - Groupe_Joao2.txt
+T'es un fou toi ! - Groupe_Joao3.txt
+(Nom du Joueur). Enchanté le Saint - Groupe_Joao5.txt
+(Nom du Joueur). Tu es un Saint toi ? - Groupe_Joao6.txt
+Ah ouais trop cooooool! Mais tu vas surement gagner contre moi le roi - Groupe_Joao8.txt  
+T'es sur que tu ne vas pas finir en larme ? - Groupe_Joao9.txt
+Donc toi les gens veulent être ingénieur et toi tu es roi des pokemons ? C'est cool - Groupe_Joao10.txt
+Oui biensur ! - Groupe_Joao12.txt
+Non bandes de copieurs ! - Groupe_Joao13.txt
+
+

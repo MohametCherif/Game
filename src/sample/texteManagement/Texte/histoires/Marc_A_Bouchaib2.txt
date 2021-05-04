@@ -1,0 +1,18 @@
+Joueur: Oui bien sûr 
+Bouchaib : Merci t’es un bon (+1)
+(Background)
+src/Images/Background/hallway.png
+A la pause 
+Marc A: Salut le nouveau t’aimes les veaux ?
+Joueur: Le rapport ?
+Marc A : C’est pour la rime Hahahaha
+Joueur: Ah d’accord oui j’aime bien lol
+Marc A : Tu connais Mohamed Salla? Trop fort ce mec ! Comme le sénégalais Sadio Mané (en faisant une danse bizarre ) N’est-ce pas chérif ? 
+Bouchaib : Il s’en fou ! Comme le nouveau 
+Marc A : je ne te parle pas 
+Bouchaib : Mais moi si 
+Ils sont bizarres 
+Joueur: Bon on peut discuter juste tranquillement ?
+Bouchaib: Oui 
+Marc A : Oui
+Joueur: Merci 

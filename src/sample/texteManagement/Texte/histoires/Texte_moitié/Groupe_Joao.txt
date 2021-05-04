@@ -1,0 +1,82 @@
+Joao Victor Manu Flavius 
+(Background)
+src/Images/Background/hallway.jpg
+
+Manu : EEEEH Bonjour le nouveau ? Tu connais le modèle OSI de l'ISO?
+(Choix) 
+Ouais je connais mais pourquoi ?
+T'es un fou toi !
+
+Si reponse 1 : 
+Manu: Je l'ai dit hiiiiiieeeeeeeeer n'est-ce pas Saint-Flavius?
+Flavius: Euh ...Ouais. 
+
+Si reponse 2:
+Manu : EHO EHO EHO ! OHE OHE OHE! Fais attention sinon attaque de memes avec ta tête dessus !
+
+Flavius: Sinon tu t'appelles comment toi ?
+(Choix)
+(Nom du Joueur). Enchanté le Saint 
+(Nom du Joueur). Tu es un Saint toi ?
+
+Si reponse 1: 
+Flavius: Moi de même
+
+Si reponse 2: 
+Flavius : Non c'est pour rigoler que Manu dis ça!
+Manu: Quoi ? Tu ne vas jamais au bar car tu dis que c'est la maison du diable ! Un BAAR 
+Joueur: Ah ouais caremment!
+
+Joao: EH BRYAAAAAAAAAAAAAAAAAN
+Joueur: Un vrai groupe de clown x)
+Manu: EH JOAOAOAOOAOAOOAOOAOAO
+Joao: Euh t'es qui ? (en s'adressant à moi )
+Joueur: Je suis nouveau je m'appelle (Nom de l'avatar) 
+Joao: Moi c'est Joao le roi des duelliste de pokemon de la classe ! Tu veux verifier?
+(Choix)
+Ah ouais trop cooooool! Mais tu vas surement gagner contre moi le roi  
+T'es sur que tu ne vas pas finir en larme ? 
+Donc toi les gens veulent être ingénieur et toi tu es roi des pokemons ? C'est cool 
+
+Si reponse 1: 
+Joao: Yeah t'inquiètes je peux te donner des astuces (+1)
+
+Si reponse 2:
+Joao: EHHH viens on fait une partie tout de suite c'est toi qui va pleurer x)
+Joueur: D'accord à la pause si tu veux 
+Joao: Okay à la pause 
+
+Si reponse 3 : 
+Joao: Tu veux qu'on se tape ? (-1)
+Joueur : Non désolé c'était pour rigoler ! 
+Joao: Ouais c'est mieux 
+Victor: Fais gaffe anh ne l'énerve pas ! 
+
+Victor : Eh les gens vous savez s'il y a un truc a faire pour le cours suivant ? J'ai rien foutu ce week-end à cause du BDE!
+Manu : Bah Bravoooooooo! 
+Joao: Bah tu vois quand je te dis que c'est nul le BDE!
+Flavius: Bah je crois qu'on a une préparation de TP à rendre. D'ailleurs Quelqu'un l'a faite ?
+Joueur: Oui ! Moi! 
+Manu et Flav: OH TU PEUX NOUS PASSER CE QUE T'AS FAIT STP ?
+Choix : 
+Oui biensur ! 
+Non bandes de copieurs !
+
+Si reponse 1 : 
+Manu: Ah merci le nouveau trop sympa ! 
+Flavius : Oui c'est gentil à toi ! 
+Joao: Ouais ! 
+Victor : Notre Sauveeeeuuuur! 
+
+Si reponse 2 
+Joao: Eh toi c'est juste oui ou non la réponse pas besoin d'en rajouter une sauce ! Tu veux qu'on se tape ?
+Manu: Vas y Joao Frappe le ! 
+Flavius : Non c'est pas bien de frapper 
+Victor: T'as de la chance que je ne sois pas grand !
+Joueur: c'est bon pourquoi me menacer ?
+
+Flavius:  Ah bah le prof est la!
+
+
+
+

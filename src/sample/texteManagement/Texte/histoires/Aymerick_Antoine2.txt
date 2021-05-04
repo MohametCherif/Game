@@ -1,0 +1,9 @@
+Joueur : non ça va, la journée est passé vite je n’ai même pas vu le temps passé
+Aymerick : Ah oui il y’a des journées comme ça mais ne t’habitue pas trop parce que la
+plupart de nos journées est souvent chargée. (+1 Aymerick et Antoine)
+Antoine : J’espère que tu n’habites pas aussi loin
+(Choix)
+ Non j’habite à côté du coup je ne prends que le bus et vous ?
+ Euh un peu, je prends la 10 et vous ?
+ J’habite assez loin, je prends la 12 et vous ?
+

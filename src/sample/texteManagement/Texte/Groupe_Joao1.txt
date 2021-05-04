@@ -1,0 +1,7 @@
+(Background)
+src/Images/Background/hallway.jpg
+
+Manu : EEEEH Bonjour le nouveau ? Tu connais le modèle OSI de l'ISO?
+(Choix) 
+Ouais je connais mais pourquoi ?
+T'es un fou toi !

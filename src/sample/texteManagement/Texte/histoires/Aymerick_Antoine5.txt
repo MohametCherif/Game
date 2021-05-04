@@ -1,0 +1,38 @@
+Joueur: Non j’habite à côté du coup je ne prends que le bus et vous ?
+Antoine: Nous la 10, on est un peu pressé on te laisse alors à demain
+------------ Le lendemain ------------
+Drrrrrring Drrrrrring……..
+Drrrrrring Drrrrrring……..
+Se lever
+Joueur : Aller c’est parti, il faut pas être en retard ! Sinon je vais me retrouver avec des nuls en projet …
+
+(Background)
+src/Images/Background/office_stairs.jpg
+Joueur : Aller j’espère qu’il n’y aura personne sur les voies pour une fois ! Quoi que il est un peu tôt, seulement 7h10, les suicidaires sont pas encore levés.
+(Background)
+src/Images/Background/classroom_2.jpg
+Joueur : On est arrivé plutôt en avance, je crois que je suis le premier.Il est que 7h40
+Aymerick : Oh salut, je pensais pas que quelqu’un arriverait avant Joueur ! 
+Joueur : Ah, salut ! Je pensais pas voir quelqu’un aussi tôt
+Aymerick : J’habite au fin fond de la campagne, si je viens pas tôt alors je viens pas tout court
+Joueur : Ah oui, je comprends, Joueur j’habite pas trop loin 
+Aymerick : Bon je vais m’installer, les gens vont commencer à arriver et les meilleures places seront prises ! Si je peux te donner un conseil de bienvenu, fonce sur les place du milieu dès que tu peux
+
+Encore 2 min
+Joueur : Aller encore 2 min avant de me lever, j’ai largement le temps 
+Joueur : Aller encore 2 min avant de me lever, j’ai largement le temps 
+(Background)
+src/Images/Background/classroom_2.jpg
+En plein cours...
+Marc A : Bonjour Monsieur désolé pour le retard 
+* 2mn plus tard
+Bouchaib : Bonjour Monsieur désolé du retard
+Marc A: Hahaaaa mais bouch toi tu habites à côté 
+Bouchaib : Marc ? Tu vas bien ? Tu ne sais pas quelles sont les raisons de mon retard est ce que tu peux garder tes remarques pour toi ?
+
+Woow il n’a pas l’air de blaguer le Bouchaib 
+Il s’assoit à côté de moi 
+Bouchaib : Bonjour tu peux décaler ta table s’il te plaît ?
+(Choix)
+Oui bien sûr 
+Non Je ne peux pas

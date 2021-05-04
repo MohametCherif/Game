@@ -1,0 +1,7 @@
+Joueur : Un peu oui, je pensais qu’elle n’allait jamais se terminer
+Aymerick : Ouai ça se comprend, c’est dur la reprise
+Antoine  : J’espère que tu n’habites pas aussi loin
+(Choix)
+ Non j’habite à côté du coup je ne prends que le bus et vous ?
+ Euh un peu, je prends la 10 et vous ?
+ J’habite assez loin, je prends la 12 et vous ?

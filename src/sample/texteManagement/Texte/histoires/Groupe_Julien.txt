@@ -1,0 +1,68 @@
+Julien Flo Ariel 
+*Dehors* 
+
+Julien : Eh Pssst Viens par la ! 
+Joueur : C'est qui lui ...
+Julien : T'es nouveau ici ?
+Joueur: Ouais ! 
+Julien: Alors Moi c'est Julien , lui c'est Ariel et elle c'est Florence !
+Joueur: Enchanté moi cest (Nom du Joueur)!
+Julien: Bienvenu chez les Ei2i 
+Ariel: Ouais j'espère que tu ne galère pas trop 
+(Choix)
+Non ça va t'inquiètes 
+Bon ça fais bizarre mais je m'y ferai
+Si reponse 1 : 
+Ariel : Cool alors! Héhé
+Julien: Tu veux une clope ?
+(Choix) 
+Non je ne fume pas 
+Oui je veux bien 
+
+Si reponse 1 : 
+Julien: Ah désolé 
+ 
+Si reponse 2: 
+Julien: Flo tu lui passe stp ?
+Flo : Ouais .
+Joueur: Merci 
+Flo: De rien 
+---- 
+Gros blanc 
+--- 
+Flo: Il y a une préparation à rendre au TP d'électronique ?
+Julien : Quoi ? Quelle préparation ? C'est aujourd'hui ?
+Ariel : Ouais 
+Julien: Bah tant pis! 
+Joueur: Lol tant pis ?
+Julien: Ouais je la fais pendant le tp et je rends à la fin!
+(Choix)
+ Ah ouais trop fort
+Bah okay c'est cool 
+ 
+Si réponse 1 : 
+Julien: T'as vu ? Je t'apprends si tu veux ;) (+1)
+ 
+Si réponse 2 : 
+Julien : Tu l'as fait toi ?
+Joueur: Oui 
+Julien: Ah 
+
+Ariel : Bon fin de la pause clope on retourne en Enfer 
+Julien : YEAAAH 
+Flo: Mais Jules marche plus vite la !
+Julien c'est bon je me déhanche un peu juste 
+
+Ariel: Lol ils sont bizarres 
+(Choix)
+Ouais un peu !
+Ouais beaucoup trop ! haha 
+
+Si réponse 1: 
+Ariel : Ouais bon le prof est la je pense à plus 
+Joueur: Ouais à plus 
+
+Si reponse 2 : 
+Ariel: Lol on est tous comme ça dans la classe tu verras 
+Joueur: Crois moi j'en ai encore assez vu la haha 
+

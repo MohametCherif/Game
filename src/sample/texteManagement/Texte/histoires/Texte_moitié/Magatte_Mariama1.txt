@@ -1,0 +1,7 @@
+Mariama :  Hey Magatte , le TOEIC approche à grand pas ! je commence à stresser la.
+Magatte : Grave ! Mais tu n’as pas t’inquiéter on l’aura en 2 temps trois mouvement!
+Mariama :  ah ! en tout cas moi j’ai peur , je ne suis pas prête à l’affronter !
+Magatte : Mais nooon ! t’inquiètes pas ça va bien se passer !
+(Choix)
+Bonjour , Vous allez bien ? +1
+A vous entendre parler , on sait déjà c’est qui les personnes les plus sérieuses de la classe, je m’appelle ( nom player ) , et vous ? 0

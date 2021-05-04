@@ -1,0 +1,6 @@
+Joueur: Hello, vous allez bien , apparemment vous êtes les grands sportifs de la classe.(+1)
+Adrien : Hello Toi, bienvenue ! noon on essaie de faire de notre mieux
+Marc : Eh les gars ! faut pas baisser les bras même si je sais que vous en avez pas encore. On doit être prêt pour cet été.
+(Choix)
+Bon courage ! il va falloir bosser dur parce que vous êtes mal parti la (en se moquant) (-1)
+Great ! je cherchais des gars comme vous pour bien me préparer aussi .(+1)

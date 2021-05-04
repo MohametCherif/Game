@@ -1,0 +1,35 @@
+Joueur: Je n’ai jamais vu quelqu’un d’aussi narcissique ! (-1) 
+(Tout d’un coup  Cherif  apparaît , en train de demander à tout le monde ” vous allez manger où? “ )
+
+- Bibou :  Hey Cherif t’es trop stock ! tu fais comment pour être aussi stock 
+-Cherif : c’est toi qui es stock.
+- Marc : regardez même ses habits ne tiennent pas !
+-Adrien : Nan mais laissez le tranquille aussi !
+- Bibou :J’aime ta modestie Cherif , contrairement à Adrien , tu sais ce qu’il disait tout à l’heure , qu’il était plus stock que toi , et que tu voulais devenir comme lui ( en chuchotant).
+-Cherif :Huuum! mais il n’a pas l’air d’un gars comme ça.
+- Bibou :oh lo lo ! tu te fais berner Cherif , c’est son passe temps favori (en chuchotant)
+Player : Lui au moins il peut se permettre de parler , on voit bien que la salle est sa 2e maison (0)
+- Bibou :Parles bien toi ! à peine arrivé tu commences à faire le malin la !
+
+Suite → bagarre etc.
+	
+(Background)
+src/Images/Background/classroom_2.jpg
+Joueur : je pense que je vais rester dans la salle en attendant que le prof arrive… Il y’a 2 filles qui
+discutent devant moi. Il me semble pas les avoir déjà parlé…
+Sarah : Alors ce voyage à Cannes ? J’espère que tu en as bien profité ?
+Houda : C’était juste amazing. I loved! Le soleil, la plage restaurant… tout ce qu’il me fallait en ce
+moment !
+Sarah : onh je suis trop jalouse ☹
+Houda : haha arrête de bouder. Si tu veux on peut en programmer un pour Londres ce weekend.
+J’adore cette ville. Enfin si tu ne tombes pas malade…
+Joueur : waouh, je me demande comment elle fait avec les cours en voyageant autant…
+Sarah : En parlant de maladie, j’étais absente pour le TD de JAVA, tu peux me passer tes notes.
+Houda : Tu sais très bien que j’étais en plein préparatif de mon petit trip à Cannes. Le TD de JAVA
+était donc le cadet de mes soucis. Tu peux peut-être demander à William ou attend, demandons
+plutôt au nouveau (ou nouvelle)
+
+Sarah : Salut le nouveau (ou nouvelle) !
+(Choix)
+Salut c’est (nom du Joueur) vous êtes ?
+C’est (nom du Joueur), j’en ai assez que tout le monde m’appelle comme ça et vous …

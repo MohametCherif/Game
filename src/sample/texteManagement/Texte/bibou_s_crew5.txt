@@ -1,0 +1,7 @@
+Joueur: Bon courage ! il va falloir bosser dur parce que vous êtes mal parti la (en se moquant) (-1)
+Bibou :  Moi je suis déjà assez stock, j’essaie juste de maintenir ma forme. J’ai même des admirateurs  
+Adrien : t’es drôle toi, tu t’es vu toi ? Rhooo nous avons un autre bibou dans le groupe.
+Marc : Parles bien mon gars ! Si tu ne veux pas qu’on te fasse ta fête !
+(Choix)
+C’est un ouf lui ! Tu me prends pour ton toutou ou quoi !(+1)
+Calme frère ! un peu de respect stp (0)
